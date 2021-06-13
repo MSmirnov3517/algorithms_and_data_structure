@@ -11,3 +11,4 @@ elif a < b < c or c < b < a:
     print(b)
 else:
     print(c)
+
